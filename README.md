@@ -1,16 +1,18 @@
-## Hi there 👋
+# Victor Ademoyero
 
-<!--
-**vickystickz/vickystickz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Geospatial Software Engineer
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/victorademoyero)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kademvicky@gmail.com)
+[![OSM](https://img.shields.io/badge/openstreetmap-lightgreen)](https://hdyc.neis-one.org/?Vickystickz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Technical Stack
+```javascript
+const skills = {
+    languages: ['JavaScript', 'Python', 'TypeScript'],
+    frameworks: ['React', 'Next.js', 'Vue js', 'Node.js', 'FastAPI', 'Astro' ],
+    platforms: ['GitHub', 'Gitlab', 'Docker', 'AWS', 'Vercel', 'Cloudinary'],
+};
+```
+*Building Geospatial Web projects to improve spatial insights and contribute to community development* 🚀
