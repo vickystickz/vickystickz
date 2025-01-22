@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/victorademoyero)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kademvicky@gmail.com)
-[![OSM](https://img.shields.io/badge/openstreetmap-lightgreen)](https://hdyc.neis-one.org/?Vickystickz)
+[![OSM](https://img.shields.io/badge/openstreetmap-Profile-lightgreen)](https://hdyc.neis-one.org/?Vickystickz)
 
 
 ## 🛠️ Technical Stack
