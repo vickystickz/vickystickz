@@ -15,4 +15,4 @@ const skills = {
     platforms: ['GitHub', 'Gitlab', 'Docker', 'AWS', 'Vercel', 'Cloudinary'],
 };
 ```
-*Building Geospatial Web projects to improve spatial insights and contribute to community development* 🚀
+*Building Geospatial Web projects to improve spatial insights and contribute to GIS Community* 🚀
